@@ -1,1 +1,2 @@
-Test example for git
+Test example for git!
+Hello
